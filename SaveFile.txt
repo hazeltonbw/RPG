@@ -1,0 +1,6 @@
+monster Brandon 2 10 2 51 51 148
+monster Tomas 1 10 1 53 53 148
+monster  1 10 1 53 53 148
+hero  0 0 0 0 -298165200
+hero  0 0 0 0 -298165200
+hero  1 10 1 53 53
